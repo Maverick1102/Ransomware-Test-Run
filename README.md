@@ -22,4 +22,4 @@ Okay so for those whom plan to follow along, just <ins>***MAKE SURE YOU DO IT IN
   
   3) Head back to the EncrypterPOC folder and open the file "EncrypterPOC.sln" in Visual Studio. Upon opening the file, at the right corner under "Solution Explorer" expand the "EncrypterPOC" file and click on "Encrypter.cs". Then an image will come. It will be named as "Encrypter.cs[Design]". Click on view at the top left corner and select "Code" or press "F7" key. We will have the needed code there and a section which we can change according to our preference will be there. Again,  <ins>***DONT USE THIS TO DO ILLEGAL STUFF***</ins>. If the instructions are unclear, just follow the guide provided below : 
   
-  ![](vs_gif.gif)
+  ![](vsgif.gif)
