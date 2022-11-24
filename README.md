@@ -56,5 +56,28 @@ The files will have a weird wordings in Chinese/Japanese, sometimes even in unkn
 
 <ins>A JPG Image File</ins>
   
+The only file you will be able to open is a file that contains the details of payment and list of files that have been encrypted in plain text : 
+  
+![](14.png)
+  
 7) So at this stage, there no real turning back and the files cant ever be retrieved without running the decrypter. If you arent confident with executing the prior steps, dont worry, just delete the VM and just retry. Again, <ins>***MAKE SURE TO RUN THIS USING A VIRTUAL MACHINE***</ins>, cuz if you dont, maybe god be with you :p
 
+<ins>**Decrypting the Files :**<ins>
+1) Head to the "DecrypterPOC" folder and open the "DecrypterPOC.sln" in Visual Code. 
+2) Expand the "Solution Explorer" at the top right corner. Double click the file "Program.cs"you dont need to customize anything. Choose "Build Solution" under "Build" option at the top. If all goes well. the "Output" should display this : 
+  
+![](13.png)
+  
+3) Head over to the "Decrypter POC" folder, choose bin > Debug > netcoreapp3.1 and run "DecrypterPOC" Application. 
+  
+  ![](11.png)
+  
+4) The program then executes the Decryption process :
+  
+  ![](12.png)
+  
+Now we finally have our files again and can enjoy using our device ((:
+
+  ![](18.png)
+  
+So yeah thats about it for the demonstration. Its nothing really crazy but yeah its a real pain if you become a victim to ransomware. Just be safe and dont do anything dumb (by dumb I mean <ins>***DO NOT TRY TO ATTACK OR INFECT SOMEONE ELSE***</ins>. Well yeah have a good day ahead, adios. 
