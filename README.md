@@ -55,6 +55,6 @@ The files will have a weird wordings in Chinese/Japanese, sometimes even in unkn
 ![](9.png)
 
 <ins>A JPG Image File</ins>
+  
 7) So at this stage, there no real turning back and the files cant ever be retrieved without running the decrypter. If you arent confident with executing the prior steps, dont worry, just delete the VM and just retry. Again, <ins>***MAKE SURE TO RUN THIS USING A VIRTUAL MACHINE***</ins>, cuz if you dont, maybe god be with you :p
-
 
